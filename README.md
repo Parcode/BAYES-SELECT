@@ -1,2 +1,2 @@
-# BAYES_SELECT
+# BAYES-SELECT
 Example code for Bayesian model selection
